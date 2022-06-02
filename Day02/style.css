@@ -1,0 +1,53 @@
+
+
+ label {
+    display: inline-block;
+    width: 120px;
+}
+
+select {
+    width: 170px;
+    padding: 5px 10px;
+}
+
+input[type="checkbox"],
+input[type='radio'] {
+    display: inline-block;
+    margin-left: 20px;
+    ;
+}
+
+input[type="submit"] {
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+body {
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.back {
+    text-align: center;
+    font-size: 20px;
+}
+
+.back p {
+    color: #2d61c2;
+}
+
+.back a {
+    text-decoration: none;
+    background: #00060c;
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 10px;
+}
+
